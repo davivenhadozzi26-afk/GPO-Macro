@@ -5,3 +5,4 @@ keyboard
 opencv-python
 
 ## apenas se for executar no o .py
+## only if your gonna execute the .py
